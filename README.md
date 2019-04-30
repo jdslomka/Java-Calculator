@@ -1,3 +1,3 @@
 # Java-Calculator
 Object oriented coding course assignment.
-![](images/filename Sample Image.png)
+![](images/filename%20Sample%20Image.png)
